@@ -74,6 +74,7 @@ class MikkoTest
         if (true === $arguments['help']) {
             echo $arguments->getHelpScreen();
             echo "\n\n";
+            exit;
         }
 
         return $arguments;
