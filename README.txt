@@ -3,9 +3,6 @@ README
 Mikko Test by Armand Krijgsman
 Required: Git, Composer, PHP 5.5+ CLI
 
-To proceed please clone this Repository manie20/mikkotest from GitHub.
-When the code is on your local/remote server
-
 1. Create a working directory:
 
     # mkdir test
