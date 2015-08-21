@@ -1,0 +1,18 @@
+{
+    "name": "armandkrijgsman/mikotest",
+    "description": "Miko Test to demonstrate knowledge",
+    "type": "command",
+    "require": {
+        "wp-cli/php-cli-tools": "^0.10.4"
+    },
+    "autoload": {
+      "psr-4": {"": "src/"}
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Armand Krijgsman",
+            "email": "a.krijgsman@netcode.nl"
+        }
+    ]
+}
