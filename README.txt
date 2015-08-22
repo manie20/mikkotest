@@ -18,7 +18,7 @@ Required: Git, Composer, PHP 5.5+ CLI
 
 3. Test the application:
 
-    # ./salaries.php help
+    # ./salaries.php --help
 
 4. Generate the CSV file as test.csv
 
